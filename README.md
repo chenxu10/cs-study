@@ -42,7 +42,7 @@
 + Heaps
 + Vectors
 + [Hash Tables](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
-  - [ ] Implement the hash table with an array of linked list and hash code function with an Constant time O(1)
+  - [ ] [Implement the hash table with an array of linked list and hash code function with an Constant time O(1)](https://github.com/chenxu10/cs-study/blob/master/Implementing_Dictionary.ipynb)
   - [ ] Implement the hash table with balanced binary tree
 
 ## 学习资源
