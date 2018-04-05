@@ -1,6 +1,6 @@
 # 11PLAN
 
-## 目录
+## Table of Contents
 
 - [Computer Science Basics](## Computer Science Basics)
 - [学习资源](## 学习的资源)
