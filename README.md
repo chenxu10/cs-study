@@ -24,10 +24,11 @@
   - [x] What is IP and DNS(Domain Name System)? 篡改DNS指向的IP Address
   - [x] Packet, routers and reliability(***How information transform from one machine to another?*** analogy: Car traffic in rush hours)
      + A packet of information,routers
-     + TCP(Transmission Control Protocol): 检查是不是所有的packets of information都到齐了
+     + **TCP**(Transmission Control Protocol): 检查是不是所有的packets of information都到齐了 vs **UDP**
   - [x] HTTP and HTML[(当你在Chrome中输入google.com)的时候发生了些什么?](https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-http-and-html)
-     + HTTP methods such as Get/Post Request
+     + **HTTP methods such as Get/Post Request**
      + HTTPS(SSL,COOKIE and SESSION)
+     + **Request and Response Circle**
   - [x] Asymmetry Encryption
   - [x] Cybersecurity and crime
      + Viruses
