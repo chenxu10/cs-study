@@ -9,6 +9,12 @@
 - [文献与研究前沿](## 文献与研究前沿 )
 
 
+## 知其所以然
+
++ KMP算法的本质在于消除回溯，至于如何消除回溯却并不是那么难以推导的
++ Tarjan算法其实只是从后序遍历经过两个优化调整而来的
++ 排序的本质
+
 ## Computer Science Basics
 
 ### 算法复杂度分析
@@ -37,19 +43,53 @@
 
 ### Must Have Knowledge on Data Structure
 
-+ Arrays
-+ Trees,Tries & Graphs
-+ Stacks&Queues
-+ Heaps
-+ Vectors
-+ [Hash Tables](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
++ #### Arrays
+
++ [ ] [数组的基本概念](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
+
+  + **Contiguous area of memory** consisting of **equal-size elements** indexed by **contiguous integers**
+  + Constant time access
+
++ [ ] 数组的基础知识
+
++ #### Trees
+
++ #### Graphs
+
++ #### Stacks
+
++ #### Queues
+
++ #### Heaps
+
++ #### Vectors
+
++ #### [Hash Tables](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
+
   - [ ] [Implement the hash table with an array of linked list and hash code function with an Constant time O(1)](https://github.com/chenxu10/cs-study/blob/master/Implementing_Dictionary.ipynb)
   - [ ] Implement the hash table with balanced binary tree
+
+### Must Have Knowledge on Algorithm
+
+#### 排序
+
+- [ ] 排序算法的稳定性
+- [ ] 快排为什么那样快？
+- [ ] 实现各种排序？
+- [ ] 每种排序的最好、最坏和平均复杂度分别是什么场景？
+- [ ] [桶排序(bucket sorting)](https://www.youtube.com/watch?v=VuXbEb5ywrU)
+
+
+#### One-pass Algorithm vs Two-pass Algorithm
+
+- [ ] Example problems solvable by one-pass algorithms
+- [ ] Example problems not-solvable by one-pass algorithms
 
 ## 学习资源
 
 ### 书籍
 
+- [x] [Polya: How to Solve it?](https://math.berkeley.edu/~gmelvin/polya.pdf) 
 - [ ] Cracking the coding interview
 - [ ] Algorithm Solution Manual
 
@@ -57,13 +97,13 @@
 
 - [ ] Berkeley CS61B
 - [ ] Udacity CS101
+- [ ] Princeton Algorithms One
 
 ## 项目创意
 
 - [ ] Poem.AI(NLP+Recommendation System)
 - [ ] Automate Social Media Selection(Facial Recognition+NLP)
-- [ ] 文章润色系统
-- [ ] 文章自动生成系统
+- [ ] 自然语言服务机器人
 
 ## 自然语言处理与社交软件
 
