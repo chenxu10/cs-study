@@ -85,6 +85,10 @@
 - [ ] Example problems solvable by one-pass algorithms
 - [ ] Example problems not-solvable by one-pass algorithms
 
+### 计算理论
+
++ [什么是P问题？NP问题？NPC问题？](http://www.matrix67.com/blog/archives/105)
+
 ## 学习资源
 
 ### 书籍
