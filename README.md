@@ -95,13 +95,20 @@
 
 - [x] [Polya: How to Solve it?](https://math.berkeley.edu/~gmelvin/polya.pdf) 
 - [ ] Cracking the coding interview
-- [ ] Algorithm Solution Manual
+- [ ] The Algorithm Design Manual
+- [ ] 《数学的发现》
+- [ ] 《数学与猜想》
+- [ ] 《证明与反驳》
+- [ ] [Original Historical Sources in Mathematics](https://www.math.nmsu.edu/~history/)
 
 ### 公开课
 
 - [ ] Berkeley CS61B
 - [ ] Udacity CS101
-- [ ] Princeton Algorithms One
+- [ ] Princeton Algorithms
+- [ ] StanfordCS224n:natural language processing with deep learning
+- [ ] StanfordCS20:Tensorflow for deep learning research
+- [ ] UD730 deep learning
 
 ## 项目创意
 
@@ -109,6 +116,6 @@
 - [ ] Automate Social Media Selection(Facial Recognition+NLP)
 - [ ] 自然语言服务机器人
 
-## 自然语言处理与社交软件
+## 自然语言处理
 
 ## 文献与研究前沿
